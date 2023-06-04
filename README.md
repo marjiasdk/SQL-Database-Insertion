@@ -22,4 +22,4 @@ The website provides a form where users can enter their email. When the form is 
 * MySQL database
 
 ## License
-This project is licensed under the MIT License.
+This repository is licensed under the MIT License. See the LICENSE file for more information.
