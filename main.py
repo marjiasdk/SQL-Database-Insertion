@@ -1,4 +1,4 @@
-#!"[location of Python Application]"
+#!"[Location of Python Application]"
 print("Content-Type: text/html\n\n")
 
 import cgi
