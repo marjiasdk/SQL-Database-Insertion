@@ -13,7 +13,7 @@ import mysql.connector
 con=mysql.connector.connect(user='root', password='', host='localhost', database='[database name]')
 cur=con.cursor()
 
-cur.execute("insert into test1 values(%s,%s)", (id,email))
+cur.execute("insert into [table name] values(%s,%s)", (id,email))
 con.commit()
 
 cur.close()
