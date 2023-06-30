@@ -24,5 +24,9 @@ The website provides a form where users can enter their email. When the form is 
 * XAMPP (Apache, MySQL)
 * Python 3.7 or later
 
+## Demo Video
+
+https://github.com/marjiasdk/SQL-Database-Insertion/assets/113689930/05c08fe4-f0a4-4131-8e8e-fbc86265e4c8
+
 ## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
